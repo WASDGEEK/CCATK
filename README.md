@@ -27,6 +27,11 @@
 -  添加了代理模式选择
 -  仍在改进的项目
 
+## 准备
+
+    apt-get install -y python python3 python3-pip
+
+
 ## 安装
 
     pip3 install requests pysocks
