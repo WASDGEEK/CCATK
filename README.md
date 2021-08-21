@@ -29,7 +29,7 @@
 
 ## 准备
 
-    apt-get install -y python python3 python3-pip
+    apt-get install -y python python3 python3-pip git
 
 
 ## 安装
