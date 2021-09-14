@@ -24,17 +24,12 @@ print ('''
 	 CC/////  CC/////   | ddos tool |/ 
 	  CCCCC/   CCCCC/   |___________|/
 >--------------------------------------------->
-Version 3.6 (2020/12/19)
-							C0d3d by wasdgeek
-
-        Tos: Don't attack ANY website        
-
-                 New stuff:                  
-          [+] Optimization                   
-          [+] Changed Output                 
-          [+] Added Url Parser               
-
- Link: https://github.com/WASDGEEK/CCATK
+Version 4.0 (2021/09/14) edit by wasdgeek
+New stuff:                  
+[+] Optimization                   
+[+] Changed Output                 
+[+] Added Url Parser               
+Link: https://github.com/WASDGEEK/CCATK
 ''')
 
 acceptall = [
