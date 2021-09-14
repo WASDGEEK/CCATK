@@ -2,7 +2,7 @@
 #Coded by BlueSkyXN
 #########################################
 #         Just a little change          #
-#                           -- BlueSkyXN #
+#                           -- wasdgeek #
 #########################################
 import requests
 import socket
@@ -25,17 +25,17 @@ print ('''
 	  CCCCC/   CCCCC/   |___________|/
 >--------------------------------------------->
 Version 3.6 (2020/12/19)
-							C0d3d by BlueSkyXN
-┌─────────────────────────────────────────────┐
-│        Tos: Don't attack ANY website        │
-├─────────────────────────────────────────────┤
-│                 New stuff:                  │
-│          [+] Optimization                   │
-│          [+] Changed Output                 │
-│          [+] Added Url Parser               │
-├─────────────────────────────────────────────┤
-│ Link: https://github.com/BlueSkyXN/CCATK    │
-└─────────────────────────────────────────────┘''')
+							C0d3d by wasdgeek
+
+        Tos: Don't attack ANY website        
+
+                 New stuff:                  
+          [+] Optimization                   
+          [+] Changed Output                 
+          [+] Added Url Parser               
+
+ Link: https://github.com/WASDGEEK/CCATK
+''')
 
 acceptall = [
 		"Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\r\nAccept-Language: en-US,en;q=0.5\r\nAccept-Encoding: gzip, deflate\r\n",
